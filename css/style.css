@@ -400,7 +400,8 @@ text-decoration: underline;
 
 .categories-area h3 {
     color: #000;
-    font-size: 18px;
+    font-size: 32px;
+font-weight: bold;
     text-transform: uppercase;
 }
 
