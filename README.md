@@ -1,0 +1,1 @@
+# renewcomp-ebay-template
