@@ -306,6 +306,7 @@ img {
 .specs-sep {
 	margin-bottom: 30px;
 	overflow: hidden;
+	paddin: 0 30px;
 }
 
 .purple-box{
